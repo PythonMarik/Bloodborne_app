@@ -10,14 +10,14 @@ with st.container():
         st.subheader("This site is bloodborne-game project")
         st.write("**Let's explore some main bosses**")
     with right_column:
-        st.image('./images/main.jpg', use_column_width=True)
+        st.image('main.jpg', use_column_width=True)
 
 # Father Gascoigne
 with st.container():
     st.write('---')
     left_column, right_column = st.columns([2, 1])
     with left_column:
-        st.image('./images/father.jpg', use_column_width=True)
+        st.image('father.jpg', use_column_width=True)
     with right_column:
         st.header('Father Gascoigne')
         st.subheader('Description')
@@ -33,7 +33,7 @@ with st.container():
     st.write('---')
     left_column, right_column = st.columns([1, 2])
     with right_column:
-        st.image('./images/beast.jpg')
+        st.image('beast.jpg')
     with left_column:
         st.header('Cleric Beast')
         st.subheader('Description')
