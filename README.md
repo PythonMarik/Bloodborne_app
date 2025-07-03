@@ -1,2 +1,2 @@
 # Bloodborne_app
-Streamlit app for bloodborne
+Streamlit app for bloodborne!
