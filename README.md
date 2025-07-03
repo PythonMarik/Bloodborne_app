@@ -1,2 +1,2 @@
-# Bloodborne_app
+# Bloodborne App
 Streamlit app for bloodborne!
